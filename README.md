@@ -1,7 +1,7 @@
 
 # cs1302-hw07 JavaFX Starter Tutorial
 
-![Approved for: Spring 2021](https://img.shields.io/badge/Approved%20for-Spring%202021-success)
+![Approved for: Fall 2021](https://img.shields.io/badge/Approved%20for-Fall%202021-blue)
 
 This homework assignment helps students setup their environment to start working with Graphical User
 Interfaces (GUIs). By the end of the homework, students will have a working GUI with a basic, functioning
