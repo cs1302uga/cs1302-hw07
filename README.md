@@ -22,7 +22,7 @@ button.
    [CSCI 1302 JavaFX Starter Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/alsi/javafx/javafx.md) assigned
    as a reading earlier this week.
    
-1. If you haven't done so already, go ahead and click the link for the JavaFX tutorial, complete the tutorial and then submit
+1. If you haven't done so already, go ahead and click the link for the JavaFX tutorial, complete the tutorial, and then submit
    your `cs1302-javafx` folder using the instructions below.
 
 ### Submission Steps
@@ -34,14 +34,14 @@ button.
 
    1. Your name and UGA ID number
   
-   Here is an example of the contents of `SUBMISSION.md`.
+   Here is an example of the contents of `SUBMISSION.md`:
    
    ```
    Sally Smith (811-000-999)
    ```
 
 1. Change directories to the parent of `cs1302-javafx` (e.g., `cd ..` from `cs1302-javafx`). If you would like
-   to make a backup tar file, the instructions are in the submissions steps for [hw01](https://github.com/cs1302uga/cs1302-hw01).
+   to make a backup `.tar` file, the instructions are in the submissions steps for [hw01](https://github.com/cs1302uga/cs1302-hw01).
    We won't repeat those steps here and you can view them as optional.
    
 1. Use the `submit` command to submit this exercise to `csci-1302`:
@@ -52,8 +52,8 @@ button.
    
    Read the output of the submit command very carefully. If there is an error while submitting, then it will displayed 
    in that output. Additionally, if successful, the `submit` command creates a new receipt file in the directory you 
-   submitted. The receipt file begins with rec and contains a detailed list of all files that were successfully submitted. 
-   Look through the contents of the rec file and always remember to keep that file in case there is an issue with your submission.
+   submitted. The receipt file begins with "rec" and contains a detailed list of all files that were successfully submitted. 
+   Look through the contents of the receipt file and always remember to keep that file in case there is an issue with your submission.
 
    **Note:** You must be on Odin to submit.
 
