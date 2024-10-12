@@ -1,7 +1,7 @@
 
 # cs1302-hw07 JavaFX Starter Tutorial
 
-![Approved for: Spring 2024](https://img.shields.io/badge/Approved%20for-Spring%202024-blue)
+![Approved for: Fall 2024](https://img.shields.io/badge/Approved%20for-Fall%202024-green)
 
 This homework assignment helps students set up their environment to start working with Graphical User
 Interfaces (GUIs). By the end of the homework, students will have a working GUI with a basic, functioning
@@ -14,12 +14,12 @@ button.
 
 ## References and Prerequisites
 
-* [CSCI 1302 JavaFX Starter Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/alsi/javafx/javafx.md)
+* [CSCI 1302 Textbook Chapter: JavaFX](https://cs1302uga.github.io/cs1302-book/java/javafx/javafx-index.html)
 
 ### Exercise Steps
 
 1. For this homework assignment, you will submit the completed code from the 
-   [CSCI 1302 JavaFX Starter Tutorial](https://github.com/cs1302uga/cs1302-tutorials/blob/alsi/javafx/javafx.md) assigned
+   [CSCI 1302 Textbook Chapter: JavaFX](https://cs1302uga.github.io/cs1302-book/java/javafx/javafx-index.html) assigned
    as a reading earlier this week.
    
 1. If you haven't done so already, go ahead and click the link for the JavaFX tutorial, complete the tutorial, and then submit
